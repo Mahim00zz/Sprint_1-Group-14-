@@ -29,10 +29,17 @@
     
   }
 
-  h1 {
-    text-align:center;
-    font-size: 40px;
-    margin-bottom: px; 
+  
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+  background-color: #cc6c5c;
+  border-radius: 20px;
+  display: inline-block;  
+  padding: 10px 20px;  
+  color: #f2f2f2;
+  
 }
 
 body {
@@ -41,10 +48,6 @@ body {
   background-color: #f4f4f4;
 }
 
-h1 {
-  text-align: center;
-  color: #333;
-}
 
 .content {
   background-color: white;
@@ -90,3 +93,42 @@ body {
   width: 400px;
   height: auto;
   }
+
+  .Line{
+      text-align: center;
+      height: 120px;
+      margin-top: 25px; 
+      
+    }
+  
+    .section {
+      display: flex;
+      align-items: center;
+      margin-bottom: 40px;
+    }
+
+.cricket-img {
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.text-content {
+  flex: 1;
+}
+.text-content h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.text-content p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+iframe {
+  display: block;
+  margin: 40px auto;
+  border-radius: 10px;
+}
