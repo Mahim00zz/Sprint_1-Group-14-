@@ -1,3 +1,12 @@
+/*Background */
+body {
+  background: rgb(245,242,235);
+  background: linear-gradient(90deg, rgba(245,242,235,1) 0%, rgba(251,245,234,1) 40%, rgba(248,239,224,1) 98%);
+}
+#logoImage{
+  width: 400px;
+  height: auto;
+  }
 
 .topnav {
     background-color: #cc6c5c;
@@ -8,6 +17,12 @@
     flex-wrap: wrap;
     
    }
+   .header {
+    display: flex;
+    justify-content: center; /* Centers the elements horizontally */
+    align-items: center;  
+  
+  }
   
 
   .topnav a {
@@ -28,4 +43,50 @@
     border-radius: 20px;
     
     
+  }
+  /* S.M.A.R.T Goals*/
+  #s {
+    color: red;
+  }
+
+  #m {
+    color:orange;
+  }
+
+  #a {
+    color:rgb(200, 200, 0);
+  }
+
+  #r {
+    color: green;
+  }
+
+  #t {
+    color: blue
+  }
+
+  .intro {
+    margin: 20px;
+  }
+  
+ 
+  .intro{
+    margin-left: 50px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+
+  }
+
+  #introP {
+    padding-left: 20px;
+    font-size: 20px;
+  }
+
+  #heading1 {
+    background-color: #cc6c5c;
+    margin-left: 25px;
+    margin-right: 20px;
+    border-radius: 20px;
+    color: white;
   }
