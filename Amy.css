@@ -1,0 +1,95 @@
+body {
+    background: rgb(245,242,235);
+    background: linear-gradient(90deg, rgba(245,242,235,1) 0%, rgba(251,245,234,1) 40%, rgba(248,239,224,1) 98%);
+  }
+  #logoImage{
+    width: 400px;
+    height: auto;
+    }
+  
+  .topnav {
+      background-color: #cc6c5c;
+      overflow: hidden;
+      border-radius: 20px;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      
+     }
+     .header {
+      display: flex;
+      justify-content: center; /* Centers the elements horizontally */
+      align-items: center;  
+    
+    }
+    
+  
+    .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 90px;
+      text-decoration: none;
+      font-size: 28px;
+      
+      
+    }
+    
+  
+    .topnav a:hover {
+      background-color: white;
+      color: black;
+      border-radius: 20px;
+      
+      
+    }
+body {
+    font-family: "Montserrat", sans-serif;
+	color: black;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    
+
+}
+    h1 {
+    text-align:center;
+    font-size: 35px;
+    margin-bottom: 10px; 
+}
+#MainHeading{
+    
+}
+body {
+    cursor: auto;
+    cursor: url("icons8-cursor-30.png"), auto;
+}
+    body {
+  margin: 0;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+    h1 {
+  text-align: center;
+  color: #3d2d2ddc;
+}
+
+.info {
+  background-color: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 2px 10px rgba(129, 65, 65, 0.486);
+  margin-top: 15px;
+}
+
+    h2 {
+  color: #8d4747;
+  text-align: center;
+}   
+#video {
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 0 3px 15px rgb(129, 65, 65);
+  }
