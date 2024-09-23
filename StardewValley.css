@@ -2,6 +2,8 @@
 body {
     background: rgb(245,242,235);
     background: linear-gradient(90deg, rgba(245,242,235,1) 0%, rgba(251,245,234,1) 40%, rgba(248,239,224,1) 98%);
+    cursor: auto;
+    cursor: url("icons8-cursor-30.png"), auto;
   }
   #logoImage{
     width: 400px;
