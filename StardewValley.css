@@ -1,0 +1,124 @@
+/*Background */
+body {
+    background: rgb(245,242,235);
+    background: linear-gradient(90deg, rgba(245,242,235,1) 0%, rgba(251,245,234,1) 40%, rgba(248,239,224,1) 98%);
+  }
+  #logoImage{
+    width: 400px;
+    height: auto;
+    }
+  
+  .topnav {
+      background-color: #cc6c5c;
+      overflow: hidden;
+      border-radius: 20px;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      
+     }
+     .header {
+      display: flex;
+      justify-content: center; /* Centers the elements horizontally */
+      align-items: center;  
+    
+    }
+    
+  
+    .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 90px;
+      text-decoration: none;
+      font-size: 28px;
+      
+      
+    }
+    
+  
+    .topnav a:hover {
+      background-color: white;
+      color: black;
+      border-radius: 20px;
+      
+      
+    }
+    /* S.M.A.R.T Goals*/
+    #s {
+      color: red;
+    }
+  
+    #m {
+      color:orange;
+    }
+  
+    #a {
+      color:rgb(200, 200, 0);
+    }
+  
+    #r {
+      color: green;
+    }
+  
+    #t {
+      color: blue
+    }
+  
+    .intro {
+      margin: 20px;
+    }
+    
+   
+    .intro{
+      margin-left: 50px;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+  
+    }
+  
+    #introP {
+      padding-left: 20px;
+      font-size: 20px;
+    }
+  
+    #heading1 {
+      background-color: #cc6c5c;
+      margin-left: 25px;
+      margin-right: 20px;
+      border-radius: 20px;
+      color: white;
+    }
+  
+    .intro2 {
+      margin-left: 50px;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      font-size: 20px;
+    }
+  
+    #img2 {
+      width:  480px;
+      height: auto;
+    }
+  
+    #ee {
+      background-color: #cc6c5c;
+      margin-left: 25px;
+      margin-right: 20px;
+      border-radius: 15px;
+      color: white;
+      font-size: large;
+      font-size: 25px;
+      padding-bottom: 30px;
+      
+    }
+
+    .ee{
+        margin-left: 50px;
+      padding: 20px;
+      display: flex;
+      justify-content: center; 
+    }
