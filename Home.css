@@ -157,3 +157,32 @@ li {
 .form-button:hover {
   background-color: #444;
 }
+
+#gifText, #logoImage{
+  margin: 0;
+  padding: 0; 
+
+}
+
+
+.header {
+  display: flex;
+  justify-content: center; /* Centers the elements horizontally */
+  align-items: center;  
+
+}
+
+.header {
+  display: flex;
+  
+
+}
+
+body {
+  background: rgb(245,242,235);
+  background: linear-gradient(90deg, rgba(245,242,235,1) 0%, rgba(251,245,234,1) 40%, rgba(248,239,224,1) 98%);
+}
+#logoImage{
+  width: 400px;
+  height: auto;
+  }
