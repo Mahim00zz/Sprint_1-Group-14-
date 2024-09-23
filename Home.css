@@ -1,19 +1,40 @@
-
+p{
+  text-align:center;
+  font-size: 25px;
+  margin-bottom: 10px; 
+  
+}
 h1 {
     text-align:center;
+    font-size: 40px;
+    margin-bottom: 10px; 
 }
 
-h3{
-    text-align:center;
+h3 {
+  text-align: center;
+  font-size: 30px;
+  background-color: #cc6c5c;
+  border-radius: 20px;
+  display: inline-block;  
+  padding: 10px 20px;  
+  color: #f2f2f2;
 }
+.vid{
+  display: flex;
+      justify-content: center;
+      align-items: center;
+      
+}
+
 
 .topnav {
-    background-color: #333;
+    background-color: #cc6c5c;
     overflow: hidden;
     border-radius: 20px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    
    }
   
 
@@ -23,7 +44,8 @@ h3{
     text-align: center;
     padding: 14px 90px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 28px;
+    
     
   }
   
@@ -36,4 +58,26 @@ h3{
     
   }
   
+.Info{
+  font-size: 20px;
   
+}
+  
+
+li {
+  margin-bottom: 10px; 
+}
+.Line{
+  text-align: center;
+}
+  
+.imgfix{
+  display: flex;
+  align-items: center; 
+  justify-content: space-between;
+}
+
+.imgfix img{
+  width: 1000px;
+  height: 400px;
+}
