@@ -1,4 +1,4 @@
-# Sprint 1 - Group 14
+# Sprint 1 
 
 ## Members: Mahim Rahaman, Amy Taveras, and Sumaiya Fatema
 
